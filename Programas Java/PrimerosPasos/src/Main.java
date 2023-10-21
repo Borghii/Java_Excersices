@@ -15,6 +15,7 @@ public class Main {
         cuenta3.setNumeroCuenta(pedirNumeroCuenta(sc));
 
         cuenta1.transferencia(cuenta2,2000);
+        cuenta2.transferencia(cuenta1,5000);
 
         System.out.println(cuenta1.toString()+cuenta2.toString());
     }
