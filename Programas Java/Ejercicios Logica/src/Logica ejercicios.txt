@@ -1,0 +1,29 @@
+Criba de Eratóstenes: Implementa el algoritmo de la criba de Eratóstenes para encontrar
+todos los números primos en un rango dado.
+
+Números de Armstrong: Escribe un programa que encuentre todos los números de Armstrong
+en un rango dado. Un número de Armstrong es aquel que es igual a la suma de sus dígitos elevados a la potencia del número de dígitos.
+
+Secuencia de Collatz: Crea un programa que genere la secuencia de Collatz para un número
+dado y cuente cuántos pasos se requieren para llegar al 1.
+
+Calculadora de expresiones matemáticas: Implementa una calculadora que pueda evaluar
+expresiones matemáticas en notación infija, como "2 + 3 * (4 - 1)". Debes manejar paréntesis y seguir las reglas de precedencia de operadores.
+
+Juego del ahorcado: Crea un juego del ahorcado en el que el programa elige una palabra
+al azar y el jugador debe adivinarla. Puedes mostrar una representación gráfica del ahorcado en cada intento incorrecto.
+
+Rompecabezas de 8-Puzzle: Implementa un programa que resuelva el rompecabezas del 8-Puzzle,
+un juego en el que se deben mover las piezas para ordenar los números del 1 al 8 en un tablero.
+
+Algoritmo de Euclides para el MCD: Escribe un programa que calcule el máximo común divisor (MCD)
+de dos números enteros utilizando el algoritmo de Euclides.
+
+Generación de números pseudoaleatorios: Crea un generador de números pseudoaleatorios que simule
+el lanzamiento de un dado de seis caras. Luego, utiliza la simulación para calcular la probabilidad de obtener un cierto resultado.
+
+Análisis de texto: Implementa un programa que analice un texto en busca de patrones específicos,
+como contar la frecuencia de palabras o letras repetidas.
+
+Towers of Hanoi: Resuelve el famoso problema de las Torres de Hanoi de forma iterativa. Muestra los
+movimientos necesarios para resolver el rompecabezas con una cantidad dada de discos.
