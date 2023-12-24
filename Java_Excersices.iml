@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Programas Java/Ejercicios Logica/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programas Java/Ejercicios Metodologia/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programas Java/Ejercicios Programacion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programas Java/JBDC/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
